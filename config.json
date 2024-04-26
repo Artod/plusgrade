@@ -1,0 +1,6 @@
+{
+    "cache_max_size": 100,
+    "supported_tax_years": [2019, 2020, 2021, 2022],
+    "tax_api_url": "http://localhost:5001/tax-calculator/tax-year",
+    "tax_api_max_retries": 5
+}
